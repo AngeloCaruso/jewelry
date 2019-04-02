@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Joyería</string>
+    <string name="btn1">Nuevo pedido</string>
+    <string name="btn2">Mis pedidos</string>
+    <string name="Type1">Pulsera</string>
+    <string name="Type2">Collar</string>
+    <string name="material1">Plata</string>
+    <string name="material2">Oro</string>
+    <string name="material3">Acero</string>
+    <string name="ore1">Rubí</string>
+    <string name="ore2">Esmeralda</string>
+    <string name="ore3">Cuarzo</string>
+    <string name="option1">Tipo</string>
+    <string name="option2">Material</string>
+    <string name="option3">Piedra</string>
+    <string name="option4">precio</string>
+    <string name="option5">Pedir</string>
+    <string name="checkBox">Marcada</string>
+    <string name="default_mat">Por favor escoje un material</string>
+    <string name="default_ore">Por favor escoje una piedra</string>
+    <string name="no_order">no hay ordenes</string>
+    <string name="order_list">mostrar ordenes</string>
+    <string name="new_order">ordenar joya</string>
+    <string name="jewel_signed">joya marcada</string>
+    <string name="field_err">Por favor, llene todos los campos</string>
+    <string name="completed">Orden hecha</string>
+</resources>

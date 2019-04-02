@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">JewelryShop</string>
+    <string name="btn1">New order</string>
+    <string name="btn2">My orders</string>
+    <string name="Type2">Necklace</string>
+    <string name="Type1">Bracelet</string>
+    <string name="material1">Silver</string>
+    <string name="material2">Gold</string>
+    <string name="material3">Steel</string>
+    <string name="ore1">Ruby</string>
+    <string name="ore2">Emerald</string>
+    <string name="ore3">Quartz</string>
+    <string name="option1">Type</string>
+    <string name="option2">Material</string>
+    <string name="option3">Ore</string>
+    <string name="option4">Price</string>
+    <string name="option5">Order</string>
+    <string name="checkBox">Signed</string>
+    <string name="default_mat">Please choose a material</string>
+    <string name="default_ore">Please choose an ore</string>
+    <string name="no_order">no orders yet</string>
+
+    <string-array name="type">Result
+        <item>@string/default_mat</item>
+        <item>@string/Type1</item>
+        <item>@string/Type2</item>
+    </string-array>
+
+    <string-array name="materials">Result
+        <item>@string/default_mat</item>
+        <item>@string/material1</item>
+        <item>@string/material2</item>
+        <item>@string/material3</item>
+    </string-array>
+
+    <string-array name="ores">Result
+        <item>@string/default_ore</item>
+        <item>@string/ore1</item>
+        <item>@string/ore2</item>
+        <item>@string/ore3</item>
+    </string-array>
+
+    <string-array name="Menu">
+        <item>@string/new_order</item>
+        <item>@string/order_list</item>
+    </string-array>
+    <string name="order_list">show orders</string>
+    <string name="new_order">order a jewel</string>
+    <string name="jewel_signed">jewel signed</string>
+    <string name="field_err">Please fill every field</string>
+    <string name="completed">Order made</string>
+
+
+</resources>
